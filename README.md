@@ -1,8 +1,8 @@
 <div align="center">
 
-# Habaneras de Lino
+# superstar
  
- ![alt text](./public/logos/Habaneras_de_Lino_Logo.png)
+ 
 
  ![Next js version](https://img.shields.io/badge/NEXT_js-12.0.8-4c566a?logo=next.js&&longCache=truelogoColor=white&colorB=pink&style=flat-square&colorA=4c566a) ![Bootstrap version](https://img.shields.io/badge/Bootstrap-5.0.2-4c566a?logo=bootstrap&&longCache=true&logoColor=white&colorB=pink&style=flat-square&colorA=4c566a) ![Django version](https://img.shields.io/badge/Django-3.2.8-4c566a?logo=django&&longCache=truelogoColor=white&colorB=pink&style=flat-square&colorA=4c566a) ![Django-RestFramework](https://img.shields.io/badge/Django_Rest_Framework-3.12.4-red.svg?longCache=true&style=flat-square&logo=django&logoColor=white&colorA=4c566a&colorB=pink) ![Commit activity](https://img.shields.io/github/commit-activity/y/Ceci-Aguilera/habaneras_de_lino_frontend/master?&&longCache=true&logoColor=white&colorB=green&style=flat-square&colorA=4c566a) ![Last Commit](https://img.shields.io/github/last-commit/Ceci-Aguilera/habaneras_de_lino_frontend/master?&&longCache=true&logoColor=white&colorB=green&style=flat-square&colorA=4c566a) 
 
@@ -33,7 +33,7 @@ __Habaneras de Lino__ is an online store to buy linen and cotton clothes that of
 1. Clone the repo:
 
    ```bash
-   git clone https://github.com/Ceci-Aguilera/habaneras_de_lino_frontend.git
+   git clone https://github.com/GreatHub1204/next-frontend.git
    ```
 
 1. Install Docker and Docker Compose
@@ -65,7 +65,7 @@ __Habaneras de Lino__ is an online store to buy linen and cotton clothes that of
 1. Clone the repo:
 
    ```bash
-   git clone https://github.com/Ceci-Aguilera/habaneras_de_lino_frontend.git
+   git clone https://github.com/GreatHub1204/next-frontend.git
    ```
 
 1. Install dependencies:
@@ -154,17 +154,3 @@ __Habaneras de Lino__ is an online store to buy linen and cotton clothes that of
 ---
 
 
-<a name="screenshots"></a>
-
-## Screenshots of the Django Backend Admin Panel
-
-
-![alt text](./screenshots/Habaneras_de_Lino_Api.png)
-
----
-
-![alt text](./screenshots/Habaneras_de_Lino_Api_2.png)
-
----
-
-![alt text](./screenshots/Habaneras_de_Lino_Api_3.png)
